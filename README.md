@@ -13,3 +13,6 @@ yt - https://www.youtube.com/@PortalGenesis
 vk - https://vk.com/portalgenesis  
 tg - https://t.me/portalgenesis  
 st - http://portalgenesis.space/  
+
+
+https://media.discordapp.net/attachments/1139970049810112624/1157792438157574255/2023-10-01_00.33.01.png?ex=6546b8bc&is=653443bc&hm=654d4dbb240b6132e4285991ab9a4d6ae8c6199cc3df169bd49c6232cbc9d0c7&=&width=855&height=481
